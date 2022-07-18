@@ -1,6 +1,6 @@
 # 💫 About Me:
-### Hi there 👋, My Name is Mohammad Mobarak Hossen
-#### I am also a Web-developer
+# Hi there 👋, My Name is Mohammad Mobarak Hossen
+## I am also a Web-developer
 ![I am also a Web-developer](https://media-exp2.licdn.com/dms/image/C5616AQECjbnzJn6p6Q/profile-displaybackgroundimage-shrink_350_1400/0/1654666688947?e=1663804800&v=beta&t=WkWhLtBpUp6PETwawVDsiqV_FabsTVDCIx2s98o-Ezs)
 - 🔭 I’m currently working on Car-shop-project <br>- 🌱 I’m currently learning javascript <br>- 👯 I’m looking to collaborate on Github <br>- 💬 Ask me about Web-developer 
 
