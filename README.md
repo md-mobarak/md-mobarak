@@ -9,21 +9,25 @@ I’m a dynamic and innovative web developer from Chittagong, Bangladesh, with a
 ## 🛠️ My Tech Stack
 
 ### 🖥️ Frontend
-- ⚛️ **React** | ⚡ **Next.js** | 🎯 **Redux Toolkit**
-- 🎨 **HTML5** | 💅 **CSS3** | 🎨 **SASS** | 🅱️ **Bootstrap** | 🌀 **Tailwind CSS**
-- 📝 **JavaScript (ES6+)** | 🦾 **TypeScript**
+- ⚛️ **React** | ⚡ **Next.js** | 🎨 **CSS** | 🅱️ **Bootstrap** | 🌀 **Tailwind CSS** | 🖼️ **Ant Design** | 🎯 **Redux Toolkit**
+- 🔥 **Firebase** | 🧭 **React Router Dom**
 
 ### 🌐 Backend
-- 🌿 **Node.js** | 🚀 **Express.js** | 🔄 **Redis**
-- 📡 **RESTful APIs** | 🔐 **JWT Authentication** | ✅ **Zod**
+- 🌿 **Node.js** | 🚀 **Express.js** | 🔄 **Redis** | 🔐 **JWT** | ✅ **Zod**
 
 ### 💾 Databases
-- 🐘 **PostgreSQL** | 🍃 **MongoDB** | 🛠️ **Prisma** | 🔧 **Mongoose**
+- 🐘 **PostgreSQL** | 🍃 **MongoDB**
+- 🛠️ **Prisma** | 🔧 **Mongoose**
 
 ### 🛠️ Tools & Platforms
-- 🗂️ **Git** | 🐙 **GitHub** | ✍️ **VS Code**
-- 🧰 **Chrome DevTools** | 🔬 **Postman** | 🎨 **Figma**
-- 🚀 **Netlify** | 🌍 **Vercel**
+- 🗂️ **Git** | 🐙 **GitHub** | ✍️ **VS Code** | 🔬 **Chrome DevTools** | 🧰 **Postman**
+- 🚀 **Netlify** | 🌍 **Vercel** | 📦 **npm**
+
+### 🧠 Languages
+- 📝 **TypeScript** | 💻 **JavaScript** | 🌿 **Node.js** | 🖥️ **OOP** | 🏗️ **C** | 🔧 **C++**
+
+### 🌱 Interpersonal Skills
+- 🏆 **Leadership** | 🌟 **Adaptability** | 🔍 **Problem-Solving** | 🤝 **Teamwork**
 
 ---
 
@@ -49,9 +53,13 @@ A secure system to manage book collections with custom login functionality, wish
 
 ---
 
-## 🌱 Passion for Learning
+## 📘 Data Structures & Algorithms (DSA)
 
-I’m passionate about **Data Structures and Algorithms (DSA)** and constantly working to improve my problem-solving skills. Whether it’s tackling competitive programming challenges or optimizing code in real-world applications, I strive to write efficient, scalable solutions.
+I am passionate about **Data Structures and Algorithms (DSA)** and actively practice optimizing code for performance. My DSA knowledge enhances my problem-solving ability, helping me tackle challenges in both frontend and backend development.
+
+- 📊 **Sorting Algorithms** | 📚 **Search Algorithms**
+- 🛠️ **Linked Lists** | 🎛️ **Stacks and Queues**
+- 🧩 **Trees and Graphs** | 🔄 **Dynamic Programming**
 
 ---
 
