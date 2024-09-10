@@ -1,22 +1,65 @@
-# 💫 About Me:
-# Hi there 👋, My Name is Mohammad Mobarak Hossen
-## I am also a Web-developer
-![I am also a Web-developer](https://media-exp2.licdn.com/dms/image/C5616AQECjbnzJn6p6Q/profile-displaybackgroundimage-shrink_350_1400/0/1654666688947?e=1663804800&v=beta&t=WkWhLtBpUp6PETwawVDsiqV_FabsTVDCIx2s98o-Ezs)
-- 🔭 I’m currently working on Car-shop-project <br>
-- 🌱 I’m currently learning javascript <br>
-- 👯 I’m looking to collaborate on Github <br>
-- 💬 Ask me about Web-developer 
+# 👋 Hi, I'm Mohammad Mobarak Hossen
 
+**🌍 Web Developer | 💻 Full-Stack Enthusiast | 🚀 Passionate about Building Innovative Web Solutions**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdmobarak.hossen.96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-mobarak-hossen-75b535240/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohammad Mobarak hossen&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad Mobarak hossen&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad Mobarak hossen&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+I’m a dynamic and innovative web developer from Chittagong, Bangladesh, with a strong focus on full-stack development. I love solving complex problems, building user-friendly web applications, and constantly improving my skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohammad Mobarak hossen&icon=7&color=9)](https://visitcount.itsvg.in)
+
+## 🛠️ My Tech Stack
+
+### 🖥️ Frontend
+- ⚛️ **React** | ⚡ **Next.js** | 🎯 **Redux Toolkit**
+- 🎨 **HTML5** | 💅 **CSS3** | 🎨 **SASS** | 🅱️ **Bootstrap** | 🌀 **Tailwind CSS**
+- 📝 **JavaScript (ES6+)** | 🦾 **TypeScript**
+
+### 🌐 Backend
+- 🌿 **Node.js** | 🚀 **Express.js** | 🔄 **Redis**
+- 📡 **RESTful APIs** | 🔐 **JWT Authentication** | ✅ **Zod**
+
+### 💾 Databases
+- 🐘 **PostgreSQL** | 🍃 **MongoDB** | 🛠️ **Prisma** | 🔧 **Mongoose**
+
+### 🛠️ Tools & Platforms
+- 🗂️ **Git** | 🐙 **GitHub** | ✍️ **VS Code**
+- 🧰 **Chrome DevTools** | 🔬 **Postman** | 🎨 **Figma**
+- 🚀 **Netlify** | 🌍 **Vercel**
+
+---
+
+## 🚀 Recent Projects
+
+### 1. **[Vehicle Management System](https://vehicle-management-frontend-seven.vercel.app/login)** 🛠️
+A comprehensive system for managing vehicles with role-based access control for drivers, managers, and super-admins. Includes vehicle tracking, expense management, and reporting.
+
+- **Tech Stack**: ⚡ Next.js, ⚛️ React, 🌀 TailwindCSS, 🌿 Node.js, 🐘 PostgreSQL, 🛠️ Prisma
+- [Frontend Repo](https://github.com/md-mobarak/vehicle_management_system_client) | [Backend Repo](https://github.com/md-mobarak/vehicle_management_system_server)
+
+### 2. **[Painting Service Platform](https://painting-client-9.vercel.app/)** 🎨
+An online platform to purchase painting services, with role-based access for users, admins, and super-admins. CRUD functionality for services, blogs, and reviews.
+
+- **Tech Stack**: ⚡ Next.js, ⚛️ React, 🎨 Daisy UI, 🌿 Node.js, 🐘 PostgreSQL
+- [Frontend Repo](https://github.com/md-mobarak/painting-cilents) | [Backend Repo](https://github.com/md-mobarak/painting-server)
+
+### 3. **[Book Catalog Management System](https://simple-book-catalog-application-5.vercel.app/)** 📚
+A secure system to manage book collections with custom login functionality, wishlist, and reading list features.
+
+- **Tech Stack**: ⚛️ React-Vite, 🎯 Redux Toolkit, 🌿 Node.js, 🍃 MongoDB
+- [Frontend Repo](https://github.com/md-mobarak/Simple_Book_Catalog_Application_5) | [Backend Repo](https://github.com/md-mobarak/Simple_Book_Catalog_Application_5-server)
+
+---
+
+## 🌱 Passion for Learning
+
+I’m passionate about **Data Structures and Algorithms (DSA)** and constantly working to improve my problem-solving skills. Whether it’s tackling competitive programming challenges or optimizing code in real-world applications, I strive to write efficient, scalable solutions.
+
+---
+
+## 🤝 Let’s Connect
+
+- [**LinkedIn**](https://www.linkedin.com/in/mohammad-mobarak-hossen-75b535240/) 🔗
+- [**Codeforces**](https://codeforces.com/profile/Mobarak_31) 📊
+- [**Portfolio**](https://mobarak-protfolio.vercel.app/) 💼
+- [**GitHub**](https://github.com/md-mobarak) 👨‍💻
+
+Feel free to reach out if you want to collaborate or if you're looking for a passionate developer to join your team!
