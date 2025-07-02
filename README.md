@@ -1,73 +1,82 @@
 # 👋 Hi, I'm Mohammad Mobarak Hossen
 
-**🌍 Web Developer | 💻 Full-Stack Enthusiast | 🚀 Passionate about Building Innovative Web Solutions**
+**🚀 Full-Stack Developer | 💻 Problem Solver | 🔥 Building High-Performance Web Applications**
 
-I’m a dynamic and innovative web developer from Chittagong, Bangladesh, with a strong focus on full-stack development. I love solving complex problems, building user-friendly web applications, and constantly improving my skills.
-
----
-
-## 🛠️ My Tech Stack
-
-### 🖥️ Frontend
-- ⚛️ **React** | ⚡ **Next.js** | 🎨 **CSS** | 🅱️ **Bootstrap** | 🌀 **Tailwind CSS** | 🖼️ **Ant Design** | 🎯 **Redux Toolkit**
-- 🔥 **Firebase** | 🧭 **React Router Dom**
-
-### 🌐 Backend
-- 🌿 **Node.js** | 🚀 **Express.js** | 🔄 **Redis** | 🔐 **JWT** | ✅ **Zod**
-
-### 💾 Databases
-- 🐘 **PostgreSQL** | 🍃 **MongoDB**
-- 🛠️ **Prisma** | 🔧 **Mongoose**
-
-### 🛠️ Tools & Platforms
-- 🗂️ **Git** | 🐙 **GitHub** | ✍️ **VS Code** | 🔬 **Chrome DevTools** | 🧰 **Postman**
-- 🚀 **Netlify** | 🌍 **Vercel** | 📦 **npm**
-
-### 🧠 Languages
-- 📝 **TypeScript** | 💻 **JavaScript** | 🌿 **Node.js** | 🖥️ **OOP** | 🏗️ **C** | 🔧 **C++**
-
-### 🌱 Interpersonal Skills
-- 🏆 **Leadership** | 🌟 **Adaptability** | 🔍 **Problem-Solving** | 🤝 **Teamwork**
+I create robust, user-centric web solutions with cutting-edge technologies. Passionate about clean architecture, performance optimization, and delivering exceptional user experiences.
 
 ---
 
-## 🚀 Recent Projects
+## 🛠️ Tech Stack & Expertise
 
-### 1. **[Vehicle Management System](https://vehicle-management-frontend-seven.vercel.app/login)** 🛠️
-A comprehensive system for managing vehicles with role-based access control for drivers, managers, and super-admins. Includes vehicle tracking, expense management, and reporting.
+### 🌟 Frontend Mastery
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=reactquery&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white)
 
-- **Tech Stack**: ⚡ Next.js, ⚛️ React, 🌀 TailwindCSS, 🌿 Node.js, 🐘 PostgreSQL, 🛠️ Prisma
-- [Frontend Repo](https://github.com/md-mobarak/vehicle_management_system_client) | [Backend Repo](https://github.com/md-mobarak/vehicle_management_system_server)
+### ⚙️ Backend Expertise
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-1A365D?logo=zod&logoColor=white)
 
-### 2. **[Painting Service Platform](https://painting-client-9.vercel.app/)** 🎨
-An online platform to purchase painting services, with role-based access for users, admins, and super-admins. CRUD functionality for services, blogs, and reviews.
-
-- **Tech Stack**: ⚡ Next.js, ⚛️ React, 🎨 Daisy UI, 🌿 Node.js, 🐘 PostgreSQL
-- [Frontend Repo](https://github.com/md-mobarak/painting-cilents) | [Backend Repo](https://github.com/md-mobarak/painting-server)
-
-### 3. **[Book Catalog Management System](https://simple-book-catalog-application-5.vercel.app/)** 📚
-A secure system to manage book collections with custom login functionality, wishlist, and reading list features.
-
-- **Tech Stack**: ⚛️ React-Vite, 🎯 Redux Toolkit, 🌿 Node.js, 🍃 MongoDB
-- [Frontend Repo](https://github.com/md-mobarak/Simple_Book_Catalog_Application_5) | [Backend Repo](https://github.com/md-mobarak/Simple_Book_Catalog_Application_5-server)
-
----
-
-## 📘 Data Structures & Algorithms (DSA)
-
-I am passionate about **Data Structures and Algorithms (DSA)** and actively practice optimizing code for performance. My DSA knowledge enhances my problem-solving ability, helping me tackle challenges in both frontend and backend development.
-
-- 📊 **Sorting Algorithms** | 📚 **Search Algorithms**
-- 🛠️ **Linked Lists** | 🎛️ **Stacks and Queues**
-- 🧩 **Trees and Graphs** | 🔄 **Dynamic Programming**
+### 🧠 Core Competencies
+- **Data Structures & Algorithms** (Basic to Mid-Level)
+- **Performance Optimization**
+- **Secure Authentication Systems**
+- **Clean Architecture Design**
+- **UI/UX Implementation**
 
 ---
 
-## 🤝 Let’s Connect
+## 🚀 Featured Projects
 
-- [**LinkedIn**](https://www.linkedin.com/in/mohammad-mobarak-hossen-75b535240/) 🔗
-- [**Codeforces**](https://codeforces.com/profile/Mobarak_31) 📊
-- [**Portfolio**](https://mobarak-protfolio.vercel.app/) 💼
-- [**GitHub**](https://github.com/md-mobarak) 👨‍💻
+### 1. 🛍️ Arabian Elegance (Full-stack E-commerce) → [Live Demo](https://arabian-elegance-client.vercel.app/)
+**Role-Based E-commerce Platform** with comprehensive dashboard and admin controls
 
-Feel free to reach out if you want to collaborate or if you're looking for a passionate developer to join your team!
+#### 🔥 Key Features:
+- **Custom RBAC System** (Admin/Manager/User)
+- Real-time dashboard analytics
+- Advanced product search/filter system
+- Order management workflow
+- Product/category CRUD operations
+- Payment integration (Stripe)
+
+#### 🛠️ Tech Stack:
+**Frontend:** Next.js, React Query, Tailwind CSS, GSAP, DaisyUI  
+**Backend:** Node.js, Express, TypeScript, MongoDB, JWT, Zod, Cloudinary  
+[Client Code](https://github.com/md-mobarak/Arabian_eleganceBD_client) | [Server Code](https://github.com/md-mobarak/arabian-elegance-backend2)
+
+---
+
+### 2. 🚚 Vehicle Management System → [Live Demo](https://vehicle-management-frontend-seven.vercel.app/login)
+Role-based vehicle tracking system with expense management
+
+### 3. 🎨 Painting Service Platform → [Live Demo](https://painting-client-9.vercel.app/)
+Service booking platform with admin controls
+
+### 4. 📚 Book Catalog System → [Live Demo](https://simple-book-catalog-application-5.vercel.app/)
+Book collection manager with wishlist features
+
+---
+
+## 🧠 Data Structures & Algorithms
+Consistently strengthening core CS fundamentals:
+- **Array & String Manipulation**
+- **Tree/Graph Traversal Algorithms**
+- **Dynamic Programming Patterns**
+- **Sorting & Searching Techniques**
+- **Time/Space Complexity Analysis**
+
+---
+
+## 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mobarak-hossen-75b535240/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mobarak-protfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-mobarak)
+
+> "Clean code always looks like it was written by someone who cares." - Michael Feathers
